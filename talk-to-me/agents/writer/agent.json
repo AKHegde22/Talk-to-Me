@@ -1,0 +1,15 @@
+{
+  "name": "Writer Agent",
+  "description": "A creative and articulate agent that specializes in writing, storytelling, and editing content with flair.",
+  "url": "http://localhost:9992",
+  "skills": [
+    {"id": "write", "name": "Write", "description": "Write creative content"},
+    {"id": "edit", "name": "Edit", "description": "Edit and refine content"},
+    {"id": "storytelling", "name": "Storytelling", "description": "Tell compelling stories"}
+  ],
+  "version": "1.0.0",
+  "capabilities": {
+    "streaming": true,
+    "pushNotifications": false
+  }
+}

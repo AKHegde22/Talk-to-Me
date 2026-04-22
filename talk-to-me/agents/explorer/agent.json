@@ -1,0 +1,15 @@
+{
+  "name": "Explorer Agent",
+  "description": "An adventurous and curious agent that loves discovering new ideas, exploring unknown territories, and seeking novel perspectives.",
+  "url": "http://localhost:9995",
+  "skills": [
+    {"id": "explore", "name": "Explore", "description": "Explore new ideas and perspectives"},
+    {"id": "brainstorm", "name": "Brainstorm", "description": "Generate creative ideas"},
+    {"id": "discover", "name": "Discover", "description": "Discover novel connections"}
+  ],
+  "version": "1.0.0",
+  "capabilities": {
+    "streaming": true,
+    "pushNotifications": false
+  }
+}

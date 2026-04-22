@@ -1,0 +1,15 @@
+{
+  "name": "Philosopher Agent",
+  "description": "A deep-thinking agent that explores abstract concepts, ethics, and fundamental questions about existence and meaning.",
+  "url": "http://localhost:9994",
+  "skills": [
+    {"id": "philosophize", "name": "Philosophize", "description": "Explore deep philosophical questions"},
+    {"id": "ethics", "name": "Ethics", "description": "Discuss ethical questions"},
+    {"id": "critique", "name": "Critique", "description": "Critique ideas philosophically"}
+  ],
+  "version": "1.0.0",
+  "capabilities": {
+    "streaming": true,
+    "pushNotifications": false
+  }
+}

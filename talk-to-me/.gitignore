@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+download/
+egg-info/
+*.egg
+*.egg-info/
+MANIFEST
+
+# Virtual environments
+venv/
+venv39/
+.venv/
+env/
+.env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Environment
+.env
+.env.local
+*.log
+
+# Test / Coverage
+htmlcov/
+.coverage
+.coverage.*
+.pytest_cache/
+.tox/
+.mypy_cache/
+
+# uv
+.ruff_cache/
+
+# Ollama (local models)
+~/.ollama/

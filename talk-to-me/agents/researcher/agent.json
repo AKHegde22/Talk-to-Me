@@ -1,0 +1,15 @@
+{
+  "name": "Research Agent",
+  "description": "A curious and analytical agent that excels at researching topics, gathering information, and providing comprehensive analysis.",
+  "url": "http://localhost:9991",
+  "skills": [
+    {"id": "research", "name": "Research", "description": "Research any topic thoroughly"},
+    {"id": "analyze", "name": "Analyze", "description": "Analyze information and provide insights"},
+    {"id": "gather", "name": "Gather Info", "description": "Gather relevant information"}
+  ],
+  "version": "1.0.0",
+  "capabilities": {
+    "streaming": true,
+    "pushNotifications": false
+  }
+}

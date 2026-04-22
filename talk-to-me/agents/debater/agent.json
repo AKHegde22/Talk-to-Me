@@ -1,0 +1,15 @@
+{
+  "name": "Debater Agent",
+  "description": "A critical and persuasive agent that enjoys debating ideas, challenging assumptions, and building strong arguments.",
+  "url": "http://localhost:9993",
+  "skills": [
+    {"id": "debate", "name": "Debate", "description": "Engage in structured debate"},
+    {"id": "argue", "name": "Argue", "description": "Present counterarguments"},
+    {"id": "persuade", "name": "Persuade", "description": "Persuade with logic and evidence"}
+  ],
+  "version": "1.0.0",
+  "capabilities": {
+    "streaming": true,
+    "pushNotifications": false
+  }
+}
